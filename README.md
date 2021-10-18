@@ -18,6 +18,9 @@ Run `ng generate component component-name` to generate a new component. You can 
 ## Author
 Ali Hassan
 
+## Project name
+Github App
+
 ### Live Site:
 View [live](https://hassan3111.github.io/Git-ip/)
 
