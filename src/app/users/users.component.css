@@ -40,8 +40,7 @@ img{
     font-family: 'sans-serif'; 
   }
   .display{
-    border-radius: 40%;
-    /* background-color: orangered; */
+    border-radius: 39%;
     padding: 1%;
     float: right;
     margin-right: 20%;
