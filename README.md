@@ -27,7 +27,11 @@ This website is about github app where you can search for other github accounts
 ## TEchnologies used 
 1 Html  2.CSS  3.Javascript 4.Bootstrap 5.Angular
 
+
 ### Live Site:
 View [live](https://hassan3111.github.io/Git-ip/)
+
+## Licence
+Tis project is under [ MIT ]
 
 
