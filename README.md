@@ -15,6 +15,8 @@ Run `ng generate component component-name` to generate a new component. You can 
 * A user can search for github users by simply typing their usernames
 * A user is able to explore profiles of different github users
 
+## Author
+Ali Hassan
 
 ### Live Site:
 View [live](https://hassan3111.github.io/Git-ip/)
