@@ -31,7 +31,7 @@ a {
 }
 a:hover {
     padding: 2px;
-    color: yellow;
+    color: hotpink;
 }
 .logo {
     flex: 1 1 auto;
