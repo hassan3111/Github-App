@@ -21,6 +21,9 @@ Ali Hassan
 ## Project name
 Github App
 
+## Description
+This website is about github app where you can search for other github accounts
+
 ### Live Site:
 View [live](https://hassan3111.github.io/Git-ip/)
 
